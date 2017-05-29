@@ -91,7 +91,7 @@ img{
 .left-col{
     width:60%;
     float:left;
-    margin:4% 0 4% 4%;   
+    margin:4% 0 4% 4%;
 }
 .sidebar{
     width:26%;
@@ -111,7 +111,7 @@ img{
 .parallax-inner{
     padding-top:90px;
     padding-bottom: 300px;
-    
+
 }
 .parallax-2{
     background: url("https://www.w3newbie.com/wp-content/uploads/black-pattern.jpg") repeat fixed 100%;
@@ -134,17 +134,17 @@ footer p{
 }
 @media screen and (max-width:768px){
     .slider .bx-wrapper .bx-controls{
-        display: none; 
+        display: none;
     }
     .parallax-inner{
-        display: none; 
+        display: none;
     }
     .one-third{
         width:100%;
         margin:4% 0;
     }
     .one-half{
-        display: none;      
+        display: none;
     }
     h1{
         font-size: 125%;
@@ -163,4 +163,5 @@ footer p{
     h3{
         padding-top: 3%;
     }
+    
 }
